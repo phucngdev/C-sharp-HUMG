@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/bin/Debug/net7.0/CS02VariablesConstantsIO
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/bin/Debug/net7.0/CS02VariablesConstantsIO.deps.json
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/bin/Debug/net7.0/CS02VariablesConstantsIO.runtimeconfig.json
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/bin/Debug/net7.0/CS02VariablesConstantsIO.dll
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/bin/Debug/net7.0/CS02VariablesConstantsIO.pdb
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/CS02VariablesConstantsIO.csproj.AssemblyReference.cache
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/CS02VariablesConstantsIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/CS02VariablesConstantsIO.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/CS02VariablesConstantsIO.AssemblyInfo.cs
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/CS02VariablesConstantsIO.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/CS02VariablesConstantsIO.dll
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/refint/CS02VariablesConstantsIO.dll
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/CS02VariablesConstantsIO.pdb
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/CS02VariablesConstantsIO.genruntimeconfig.cache
+/Users/nguyenminhphuc/Projects/CS02VariablesConstantsIO/CS02VariablesConstantsIO/obj/Debug/net7.0/ref/CS02VariablesConstantsIO.dll

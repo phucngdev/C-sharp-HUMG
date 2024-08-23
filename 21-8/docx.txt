@@ -1,0 +1,54 @@
+[1] C# 10 (Phát hành vào tháng 11/2021)
+Global Usings:
+
+Cho phép khai báo các using ở cấp độ toàn cục trong một tệp duy nhất, áp dụng cho tất cả các tệp trong dự án.
+File-scoped Namespace:
+
+Cho phép khai báo namespace trên một dòng, giúp loại bỏ việc phải đóng mở khối {} cho namespace.
+Record Structs:
+
+Cấu trúc dữ liệu record giờ đây có thể được khai báo dưới dạng struct thay vì class, giúp tiết kiệm bộ nhớ khi cần lưu trữ các dữ liệu bất biến.
+Extended Property Patterns:
+
+Mở rộng khả năng mẫu hóa (pattern matching) với các mẫu thuộc tính phức tạp hơn.
+Constant Interpolated Strings:
+
+Hỗ trợ chuỗi nội suy (interpolated strings) có thể được khai báo là hằng số (const).
+
+------------------------------------------------------------------------------------------------
+
+[2] C# 11 (Phát hành vào tháng 11/2022)
+Required Members:
+
+Cho phép bắt buộc khai báo các thuộc tính cần thiết (required properties) khi tạo đối tượng của lớp.
+File-local Types:
+
+Cho phép khai báo các loại (type) chỉ có thể truy cập từ bên trong tệp nguồn mà nó được khai báo.
+Generic Attributes:
+
+Hỗ trợ sử dụng kiểu chung (generic types) trong các thuộc tính (attributes).
+UTF-8 String Literals:
+
+Hỗ trợ khai báo chuỗi UTF-8 trực tiếp bằng cách sử dụng hậu tố u8.
+List Patterns:
+
+Cải tiến mẫu hóa (pattern matching) với danh sách và mảng.
+
+------------------------------------------------------------------------------------------------
+
+[3] C# 12 (Phát hành vào tháng 11/2023)
+Primary Constructors for Classes:
+
+Cho phép khai báo constructor trực tiếp trên lớp giống như cách làm với record.
+Default Interface Methods Enhancements:
+
+Mở rộng tính năng phương thức mặc định trong interface, cho phép định nghĩa các phương thức ảo và các thuộc tính có giá trị mặc định.
+Collection Literals:
+
+Hỗ trợ khai báo tập hợp (collection) trực tiếp thông qua cú pháp [], tương tự như trong các ngôn ngữ như Python hay JavaScript.
+Interpolated String Handlers Enhancements:
+
+Mở rộng tính năng xử lý chuỗi nội suy, giúp cải thiện hiệu suất và khả năng tùy chỉnh.
+Null-Checking Parameters:
+
+Cho phép kiểm tra null cho tham số đầu vào trong phương thức ngay tại điểm khai báo tham số.
