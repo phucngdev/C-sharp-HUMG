@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/Projects/28-8/28-8/bin/Debug/net7.0/28-8
+/Users/nguyenminhphuc/Projects/28-8/28-8/bin/Debug/net7.0/28-8.deps.json
+/Users/nguyenminhphuc/Projects/28-8/28-8/bin/Debug/net7.0/28-8.runtimeconfig.json
+/Users/nguyenminhphuc/Projects/28-8/28-8/bin/Debug/net7.0/28-8.dll
+/Users/nguyenminhphuc/Projects/28-8/28-8/bin/Debug/net7.0/28-8.pdb
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/28-8.csproj.AssemblyReference.cache
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/28-8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/28-8.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/28-8.AssemblyInfo.cs
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/28-8.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/28-8.dll
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/refint/28-8.dll
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/28-8.pdb
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/28-8.genruntimeconfig.cache
+/Users/nguyenminhphuc/Projects/28-8/28-8/obj/Debug/net7.0/ref/28-8.dll
