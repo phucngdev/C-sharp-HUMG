@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/C# humg/4-9-2024/bin/Debug/net7.0/4-9-2024
+/Users/nguyenminhphuc/C# humg/4-9-2024/bin/Debug/net7.0/4-9-2024.deps.json
+/Users/nguyenminhphuc/C# humg/4-9-2024/bin/Debug/net7.0/4-9-2024.runtimeconfig.json
+/Users/nguyenminhphuc/C# humg/4-9-2024/bin/Debug/net7.0/4-9-2024.dll
+/Users/nguyenminhphuc/C# humg/4-9-2024/bin/Debug/net7.0/4-9-2024.pdb
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/4-9-2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/4-9-2024.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/4-9-2024.AssemblyInfo.cs
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/4-9-2024.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/4-9-2024.sourcelink.json
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/4-9-2024.dll
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/refint/4-9-2024.dll
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/4-9-2024.pdb
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/4-9-2024.genruntimeconfig.cache
+/Users/nguyenminhphuc/C# humg/4-9-2024/obj/Debug/net7.0/ref/4-9-2024.dll
