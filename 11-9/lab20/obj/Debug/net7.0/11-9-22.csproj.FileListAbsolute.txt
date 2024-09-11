@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/bin/Debug/net7.0/11-9-22
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/bin/Debug/net7.0/11-9-22.deps.json
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/bin/Debug/net7.0/11-9-22.runtimeconfig.json
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/bin/Debug/net7.0/11-9-22.dll
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/bin/Debug/net7.0/11-9-22.pdb
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/11-9-22.csproj.AssemblyReference.cache
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/11-9-22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/11-9-22.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/11-9-22.AssemblyInfo.cs
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/11-9-22.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/11-9-22.dll
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/refint/11-9-22.dll
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/11-9-22.pdb
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/11-9-22.genruntimeconfig.cache
+/Users/nguyenminhphuc/Projects/11-9-22/11-9-22/obj/Debug/net7.0/ref/11-9-22.dll
