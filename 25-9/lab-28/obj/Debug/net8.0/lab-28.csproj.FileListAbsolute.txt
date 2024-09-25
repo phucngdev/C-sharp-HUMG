@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/lab-28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/lab-28.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/lab-28.AssemblyInfo.cs
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/lab-28.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/lab-28.sourcelink.json
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/bin/Debug/net8.0/lab-28
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/bin/Debug/net8.0/lab-28.deps.json
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/bin/Debug/net8.0/lab-28.runtimeconfig.json
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/bin/Debug/net8.0/lab-28.dll
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/bin/Debug/net8.0/lab-28.pdb
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/lab-28.dll
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/refint/lab-28.dll
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/lab-28.pdb
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/lab-28.genruntimeconfig.cache
+/Users/nguyenminhphuc/C# humg/25-9/lab-28/obj/Debug/net8.0/ref/lab-28.dll

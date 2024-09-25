@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/bin/Debug/net8.0/lab-31
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/bin/Debug/net8.0/lab-31.deps.json
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/bin/Debug/net8.0/lab-31.runtimeconfig.json
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/bin/Debug/net8.0/lab-31.dll
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/bin/Debug/net8.0/lab-31.pdb
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/lab-31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/lab-31.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/lab-31.AssemblyInfo.cs
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/lab-31.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/lab-31.sourcelink.json
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/lab-31.dll
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/refint/lab-31.dll
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/lab-31.pdb
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/lab-31.genruntimeconfig.cache
+/Users/nguyenminhphuc/C# humg/25-9/lab-31/obj/Debug/net8.0/ref/lab-31.dll
