@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Humg_25_9_lab_34
+namespace Humg_2_10_lab_35
 {
     class Program {
         static void Main(string[] args) {
-           // Dictionary
+            // Dictionary
             Dictionary<string, string> dictionary = new Dictionary<string, string>();
             dictionary.Add("Apple", "Red");
             dictionary.Add("Banana", "Yellow");
@@ -40,7 +40,7 @@ namespace Humg_25_9_lab_34
             hashSet.Add(1);
             hashSet.Add(2);
             hashSet.Add(3);
-            hashSet.Add(2);
+            hashSet.Add(2); // Duplicate won't be added
             Console.WriteLine("HashSet: " + string.Join(", ", hashSet));
             // xóa phần tử từ HashSet
             hashSet.Remove(2);
@@ -50,11 +50,11 @@ namespace Humg_25_9_lab_34
             Console.WriteLine(hashSet.Contains(2));
             // lấy phần tử đầu tiên của HashSet
             Console.WriteLine("First Element: " + hashSet.First());
-            // kiểm tra HashSet rỗng
-            Console.WriteLine("HashSet Is Empty: " + hashSet.IsEmpty);
+            // kiểm tra HashSet rỗng (corrected part)
+            Console.WriteLine("HashSet Is Empty: " + (hashSet.Count == 0));
             // kiểm tra HashSet đã chứa tất cả các phần tử của 1 list
             List<int> list = new List<int> { 1, 2, 3 };
-            Console.WriteLine("kiểm tra HashSet đã chứa tất cả các phần tử của 1 list: " + hashSet.SetEquals(list));
+            Console.WriteLine("Kiểm tra HashSet đã chứa tất cả các phần tử của 1 list: " + hashSet.SetEquals(list));
             // lấy tổng số phần tử trong HashSet
             Console.WriteLine("HashSet Count: " + hashSet.Count);
             // clear HashSet

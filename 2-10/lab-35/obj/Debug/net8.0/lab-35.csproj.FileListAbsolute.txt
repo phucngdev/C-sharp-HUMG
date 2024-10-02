@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/lab-35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/lab-35.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/lab-35.AssemblyInfo.cs
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/lab-35.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/lab-35.sourcelink.json
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/bin/Debug/net8.0/lab-35
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/bin/Debug/net8.0/lab-35.deps.json
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/bin/Debug/net8.0/lab-35.runtimeconfig.json
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/bin/Debug/net8.0/lab-35.dll
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/bin/Debug/net8.0/lab-35.pdb
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/lab-35.dll
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/refint/lab-35.dll
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/lab-35.pdb
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/lab-35.genruntimeconfig.cache
+/Users/nguyenminhphuc/C# humg/2-10/lab-35/obj/Debug/net8.0/ref/lab-35.dll

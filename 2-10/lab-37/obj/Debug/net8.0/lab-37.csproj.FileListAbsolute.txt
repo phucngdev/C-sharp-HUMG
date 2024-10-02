@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/lab-37.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/lab-37.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/lab-37.AssemblyInfo.cs
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/lab-37.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/lab-37.sourcelink.json
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/bin/Debug/net8.0/lab-37
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/bin/Debug/net8.0/lab-37.deps.json
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/bin/Debug/net8.0/lab-37.runtimeconfig.json
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/bin/Debug/net8.0/lab-37.dll
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/bin/Debug/net8.0/lab-37.pdb
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/lab-37.dll
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/refint/lab-37.dll
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/lab-37.pdb
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/lab-37.genruntimeconfig.cache
+/Users/nguyenminhphuc/C# humg/2-10/lab-37/obj/Debug/net8.0/ref/lab-37.dll
