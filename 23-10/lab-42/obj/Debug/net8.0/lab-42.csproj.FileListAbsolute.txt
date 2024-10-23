@@ -1,0 +1,15 @@
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/bin/Debug/net8.0/lab-42
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/bin/Debug/net8.0/lab-42.deps.json
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/bin/Debug/net8.0/lab-42.runtimeconfig.json
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/bin/Debug/net8.0/lab-42.dll
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/bin/Debug/net8.0/lab-42.pdb
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/lab-42.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/lab-42.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/lab-42.AssemblyInfo.cs
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/lab-42.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/lab-42.sourcelink.json
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/lab-42.dll
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/refint/lab-42.dll
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/lab-42.pdb
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/lab-42.genruntimeconfig.cache
+/Users/nguyenminhphuc/C# humg/23-10/lab-42/obj/Debug/net8.0/ref/lab-42.dll

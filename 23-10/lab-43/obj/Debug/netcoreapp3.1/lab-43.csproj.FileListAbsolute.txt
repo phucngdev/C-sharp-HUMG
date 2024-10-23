@@ -1,0 +1,6 @@
+/Users/nguyenminhphuc/C# humg/23-10/lab-43/obj/Debug/netcoreapp3.1/lab-43.csproj.AssemblyReference.cache
+/Users/nguyenminhphuc/C# humg/23-10/lab-43/obj/Debug/netcoreapp3.1/lab-43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhphuc/C# humg/23-10/lab-43/obj/Debug/netcoreapp3.1/lab-43.AssemblyInfoInputs.cache
+/Users/nguyenminhphuc/C# humg/23-10/lab-43/obj/Debug/netcoreapp3.1/lab-43.AssemblyInfo.cs
+/Users/nguyenminhphuc/C# humg/23-10/lab-43/obj/Debug/netcoreapp3.1/lab-43.csproj.CoreCompileInputs.cache
+/Users/nguyenminhphuc/C# humg/23-10/lab-43/obj/Debug/netcoreapp3.1/lab-43.sourcelink.json
