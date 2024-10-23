@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace MultiThreadingExample
+namespace Humg_23_10_lab_42
 {
     class Program
     {

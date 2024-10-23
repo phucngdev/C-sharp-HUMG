@@ -49,8 +49,6 @@ namespace Humg_23_10_lab_41
     {
         static void Main(string[] args)
         {
-            // Bước 4: Tạo một đối tượng cụ thể và inject nó vào lớp Notification.
-            
             // Dependency Injectio thông qua constructor.
             IMessageService emailService = new EmailService(); // Ở đây ta sử dụng dịch vụ Email.
             Notification notification = new Notification(emailService); // Inject emailService vào Notification.
