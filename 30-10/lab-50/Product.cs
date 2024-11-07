@@ -57,7 +57,6 @@ public class ProductService
 
         using var connection = new MySqlConnection(_connectionString);
         connection.Open(); // Mở kết nối đến cơ sở dữ liệu
-
         
         string query = "SELECT * FROM Sanpham LIMIT @Limit OFFSET @Offset";
         using var command = new MySqlCommand(query, connection);
@@ -82,7 +81,7 @@ public class ProductService
             });
         }
 
-        return products; // Trả về danh sách sản phẩm
+        return products; 
     }
     
     public void DeleteProduct(int productId)
